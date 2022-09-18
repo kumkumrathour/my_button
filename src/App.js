@@ -6,7 +6,7 @@ function App() {
   const AddVal =[
     {
       id:'e1',
-      amount : '645'
+      amount : '0'
     },
   ]
   return (
