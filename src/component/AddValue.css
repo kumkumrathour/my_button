@@ -1,0 +1,22 @@
+.AddValue-item{
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: #c50d79;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 12px;
+  }
+  .AddValue-item{
+    font-size: 1.25rem;
+    padding: 0.5rem 1.5rem;
+  }
+  .AddValue-item_price{
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: #25df5c;
+    border: 1px solid white;
+    padding: 0.5rem;
+    border-radius: 12px;
+  }
